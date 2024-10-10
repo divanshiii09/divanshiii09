@@ -1,6 +1,7 @@
 # Hi there! 👋 I'm Divanshi Goyal
 ![Leetcode Stats](https://leetcard.jacoblin.cool/goyal_divanshi?ext=heatmap)
 <br>
+<br>
 🌱 About Me:
 - I'm a B.Tech Computer Science and Engineering 2nd-year student, actively exploring different domains within tech.
 - I'm passionate about learning and have a curious mind that constantly seeks new challenges.
